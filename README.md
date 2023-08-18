@@ -13,7 +13,8 @@ Technology used
     Their Country, City, State, Postal code, Region.
 
 SCREEN SHOT:
-![Sales Screen Shot](https://github.com/SRIDHAR-BASKARAN/Sales-Analysis-SQL-Power-BI/assets/142026057/2f879687-438b-4c9f-8c76-b2081dae6a30)
+![Sales Dashboard image](https://github.com/SRIDHAR-BASKARAN/Sales-Analysis-SQL-Power-BI/assets/142026057/6bbcdfb7-abab-4077-a60a-985bfb8b9368)
+
 
 
 DATA MODELING:
