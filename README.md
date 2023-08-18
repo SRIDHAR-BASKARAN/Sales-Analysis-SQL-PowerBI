@@ -8,8 +8,7 @@ Technology used
 
   ABOUT DATASET:
     The Sales Analysis pridiction for USA in between 2014 - 2017. Data has Product details, Customer details, Quantity, Profit details, Sales details, Discount.
-    Their product details are Product ID, Products are divided by two parts Category, Sub-Category. Categories are Furniture, Office Supplies, Technology. Sub-Categories are Boohcases, Chairs, Lables, Tables, Storage, Furnishings, Art, Phones, Binders, Appliances, Paper, Machines.
-Chairs, Labels, Tables, Storage, Furnishings, Art, Phones, Binders, Appliances, Paper.
+    Their product details are Product ID, Products are divided by two parts Category, Sub-Category. Categories are Furniture, Office Supplies, Technology. Sub-Categories are Bookcases, Chairs, Lables, Tables, Storage, Furnishings, Art, Phones, Binders, Appliances, Paper, Machines.
     Their Customer details are Customer Name, Customer ID. Segment are Consumer, Home Office, Corprate. Apart from that Order Detals are OrderID, Order date.
     Their Country, City, State, Postal code, Region.
 
@@ -43,7 +42,7 @@ Data ANALYSING QUESTIONS:
 
  SUMMARY FINDING:
 
- 1. Between 2014 to 2017, Technology had the largest increase in sum of Profit (135.82%) while Furniture has the largest decrease (44.70 %). The most recent Sum of Profit anomaly was in 201, when had a high of 6,959.95![image](https://github.com/SRIDHAR-BASKARAN/Sales-Analysis-SQL-Power-BI/assets/142026057/0d39c479-be76-4bd8-aa96-88b81bdfadd8)
+ 1. Between 2014 to 2017, Technology had the largest increase in sum of Profit (135.82%) while Furniture has the largest decrease (44.70 %). The most recent Sum of Profit anomaly was in 201, when had a high of 6,959.95.
 
  2.Technology had most interesting recent trend and start trending up on 2014, rising by 135.82% in 3 years.
   
