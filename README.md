@@ -8,7 +8,7 @@ Technology used
 
   ABOUT DATASET:
     The Sales Analysis pridiction for USA in between 2014 - 2017. Data has Product details, Customer details, Quantity, Profit details, Sales details, Discount.
-    Their product details are Product ID, Products are divided by two parts Category, Sub-Category. Categories are Furniture, Office Supplies, Technology. Sub-Categories are Bookcases, Chairs, Lables, Tables, Storage, Furnishings, Art, Phones, Binders, Appliances, Paper, Machines.
+    Their product details are Product ID, Products are divided by two parts Category, Sub-Category. Categories are Furniture, Office Supplies, Technology. Sub-Categories are Bookcases, Chairs, Lables, Tables, Furnishings,Phones, Binders, Appliances, Paper, Machines.
     Their Customer details are Customer Name, Customer ID. Segment are Consumer, Home Office, Corprate. Apart from that Order Detals are OrderID, Order date.
     Their Country, City, State, Postal code, Region.
 
