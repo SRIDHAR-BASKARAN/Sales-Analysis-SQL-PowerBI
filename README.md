@@ -7,7 +7,7 @@ Technology used
   Data Visualization : Power BI
 
   ABOUT DATASET:
-    The Sales Analysis pridiction for USA in between 2014 - 2017. Data has Product details, Customer details, Quantity, Profit details, Sales details, Discount.
+    The Sales Analysis prediction for USA in between 2014 - 2017. Data has Product details, Customer details, Quantity, Profit details, Sales details, Discount.
     Their product details are Product ID, Products are divided by two parts Category, Sub-Category. Categories are Furniture, Office Supplies, Technology. Sub-Categories.
     Their Customer details are Customer Name, Customer ID. Segment are Consumer, Home Office, Corprate. Apart from that Order Detals are OrderID, Order date.
     Their Country, City, State, Postal code, Region.
